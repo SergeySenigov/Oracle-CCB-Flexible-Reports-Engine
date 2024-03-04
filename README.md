@@ -1,2 +1,5 @@
-# Oracle-CCB-Flexible-Reports-Engine
+## Фреймворк построения отчетности с данными Oracle Customer Care And Billing (CC&B)  
+
+
 Инструментарий для формирования регламентной и ad-hoc отчетности биллинговой системы Oracle CC&amp;B
+
